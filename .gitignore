@@ -1,0 +1,8 @@
+.idea
+.mvn
+.mvnv
+mvnv
+mvnw.cmd
+SpringRest.iml
+target
+ignore
